@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shamsiddin14
+- 👋 Hi, I’m @Shamsiddin
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Html 
 - 💞️ I’m looking to collaborate on ...
